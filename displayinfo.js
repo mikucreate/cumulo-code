@@ -9,7 +9,6 @@ display.info = function(...args) {
   console.log(message); // Log the message immediately to the console
 };
 
-display.info('hi');
 
 
 
